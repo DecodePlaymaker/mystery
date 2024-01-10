@@ -10,9 +10,9 @@ https://drive.google.com/file/d/1BtbWqPDxDK96kuvcQfE56Zb8pLCCdZgB/view
 
 ## Screenshots
 
-![Screenshot1](Screenshot1.png)
+![Screenshot1](/Develop/utils/images/Screenshot1.png)
 
-![Screenshot2](Screenshot2.png)
+![Screenshot2](/Develop/utils/images/Screenshot2.png)
 
 ## Installation
 
